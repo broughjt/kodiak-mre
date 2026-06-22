@@ -1,5 +1,5 @@
 {
-  description = "Minimal reproducible example for Kodiak";
+  description = "Minimal reproducible example for Kodiak memory issue";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
